@@ -1,0 +1,30 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32s3.cfg"
+  ],
+  "files.associations": {
+    "device_wifi.h": "c",
+    "esp_http_client.h": "c",
+    "stdio.h": "c",
+    "esp_event.h": "c",
+    "stdbool.h": "c",
+    "cstring": "c",
+    "device_flash.h": "c",
+    "nvs_flash.h": "c",
+    "device_http.h": "c",
+    "device_usart.h": "c",
+    "uart_types.h": "c",
+    "typeinfo": "c",
+    "freertos.h": "c",
+    "esp_log.h": "c",
+    "semphr.h": "c",
+    "gpio.h": "c",
+    "task.h": "c",
+    "string.h": "c",
+    "queue.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
